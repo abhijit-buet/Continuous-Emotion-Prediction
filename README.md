@@ -1,6 +1,6 @@
 # Continuous-Emotion-Prediction
 Continuous Emotion Prediction was a challenge launched in AVEC 2017. 
-Three emotion dimension -arousal,valence and liking were required to predict.
+Three emotion dimensions -arousal,valence and liking were required to predict.
 We have trained a deep LSTM-RNN structure using Bag-of-Words features.
 Here Different LSTM-RNN variants were used to train, including,
 1.Bidirectional LSTM,
