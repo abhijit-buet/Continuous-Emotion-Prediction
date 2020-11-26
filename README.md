@@ -9,8 +9,6 @@ Here Different LSTM-RNN variants were used to train, including,
 1.Bidirectional LSTM,
 2.Multi tasking ,
 3.Many to Many Mapping.
-
-
 <img src="https://github.com/abhijit-buet/Images/blob/main/Slide3.PNG" width="768" height="512">
 
 
